@@ -1,0 +1,6 @@
+C:\dev\ParsECS\TypeAnnotation\bin\Debug\TypeAnnotation.exe.config
+C:\dev\ParsECS\TypeAnnotation\bin\Debug\TypeAnnotation.exe
+C:\dev\ParsECS\TypeAnnotation\bin\Debug\TypeAnnotation.pdb
+C:\dev\ParsECS\TypeAnnotation\obj\Debug\TypeAnnotation.csprojResolveAssemblyReference.cache
+C:\dev\ParsECS\TypeAnnotation\obj\Debug\TypeAnnotation.exe
+C:\dev\ParsECS\TypeAnnotation\obj\Debug\TypeAnnotation.pdb

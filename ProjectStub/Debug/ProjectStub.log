@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol _main referenced in function ___tmainCRTStartup
+C:\dev\ParsECS\Debug\ProjectStub.exe : fatal error LNK1120: 1 unresolved externals

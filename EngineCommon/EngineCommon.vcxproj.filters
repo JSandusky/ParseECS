@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Resource">
+      <UniqueIdentifier>{6bc7f683-8226-4b0c-95e5-3cb3f22366e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics">
+      <UniqueIdentifier>{0ca63385-32ba-4cd1-b402-461365e0423d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics\2D">
+      <UniqueIdentifier>{20934e32-2b13-4389-805a-f5ea1a624231}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics\3D">
+      <UniqueIdentifier>{133b271c-361c-4a0e-b45a-8be1d49a249e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics">
+      <UniqueIdentifier>{49d206c6-6d83-42c5-a87e-7dcafd350708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics\3D">
+      <UniqueIdentifier>{db99c88f-2037-4aac-9eda-94c69535ea7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics\2D">
+      <UniqueIdentifier>{b18a671c-4ced-4b43-8547-1867b75a385d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Network">
+      <UniqueIdentifier>{b0ce93c2-0a20-45b2-b5e6-a5622ba123fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AI">
+      <UniqueIdentifier>{87edcf79-f879-4fc8-946b-0c03d6a257f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Input">
+      <UniqueIdentifier>{fbc9381b-5191-45f9-9a4f-2d8be0277dd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Audio">
+      <UniqueIdentifier>{4d05909e-a36e-4808-a44e-e3250a4af4fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AI\Navigation">
+      <UniqueIdentifier>{1233e8a0-211a-4de6-bade-3a0004ab04b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AI\Utility">
+      <UniqueIdentifier>{951f6c73-8292-431c-999a-6ec1ac864d95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Animation">
+      <UniqueIdentifier>{4565773c-cdba-4a33-945e-672e5d994db1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics\Renderer">
+      <UniqueIdentifier>{1d72dcdc-3987-4c2e-b12e-6502d484e752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{16147d51-a1b0-49b5-a6eb-5eeda11e6715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics\Geometry">
+      <UniqueIdentifier>{b62e947f-2755-43a6-878a-89edc8158787}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ResourceStore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUBuffer.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexLayout.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneOctree.h">
+      <Filter>Header Files\Graphics\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SoftwareOcclusion.h">
+      <Filter>Header Files\Graphics\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundBuffer.h">
+      <Filter>Header Files\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundFilter.h">
+      <Filter>Header Files\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundArea.h">
+      <Filter>Header Files\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneQuadtree.h">
+      <Filter>Header Files\Graphics\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="PolyObject.h">
+      <Filter>Header Files\Graphics\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartPolyObject.h">
+      <Filter>Header Files\Graphics\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files\Graphics\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Websockets.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkConnection.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkManager.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimTrack.h">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimTimeline.h">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHistory.h">
+      <Filter>Header Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletPhysicsManager.h">
+      <Filter>Header Files\Physics\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUObject.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUShader.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUDevice.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUContants.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUShaderProgram.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugRenderer.h">
+      <Filter>Header Files\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="StripMeshBuilder.h">
+      <Filter>Header Files\Graphics\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="BillboardRenderer.h">
+      <Filter>Header Files\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshRenderer.h">
+      <Filter>Header Files\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderPipeline.h">
+      <Filter>Header Files\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUViewport.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ResourceStore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundStream.h">
+      <Filter>Header Files\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUBuffer.cpp">
+      <Filter>Header Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexLayout.cpp">
+      <Filter>Header Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUShader.cpp">
+      <Filter>Header Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUDevice.cpp">
+      <Filter>Header Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUShaderProgram.cpp">
+      <Filter>Header Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugRenderer.cpp">
+      <Filter>Header Files\Graphics\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Profiler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

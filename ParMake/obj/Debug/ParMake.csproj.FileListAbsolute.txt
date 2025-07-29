@@ -1,0 +1,6 @@
+C:\dev\ParsECS\ParMake\bin\Debug\ParMake.exe.config
+C:\dev\ParsECS\ParMake\bin\Debug\ParMake.exe
+C:\dev\ParsECS\ParMake\bin\Debug\ParMake.pdb
+C:\dev\ParsECS\ParMake\obj\Debug\ParMake.csprojResolveAssemblyReference.cache
+C:\dev\ParsECS\ParMake\obj\Debug\ParMake.exe
+C:\dev\ParsECS\ParMake\obj\Debug\ParMake.pdb

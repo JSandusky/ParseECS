@@ -1,0 +1,2 @@
+﻿  editormeshedit.cpp
+c:\dev\parsecs\editormeshedit\editormeshedit.h(4): fatal error C1083: Cannot open include file: '%DEF_HEADER%': No such file or directory

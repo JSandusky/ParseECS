@@ -1,0 +1,3 @@
+﻿  GPUShaderProgram.cpp
+c:\dev\parsecs\enginecommon\gpushaderprogram.cpp(27): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  EngineCommon.vcxproj -> C:\dev\ParsECS\Debug\EngineCommon.dll

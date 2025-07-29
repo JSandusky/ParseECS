@@ -1,0 +1,47 @@
+﻿  ComponentMetaData.cpp
+  ComponentRegistry.cpp
+c:\dev\parsecs\parsecs\ecsvector.h(5): error C2955: 'std::enable_if': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(48): note: see declaration of 'std::enable_if'
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+  ConcernedList.cpp
+c:\dev\parsecs\parsecs\entities\entitymanager.h(38): error C2178: 'EntityManager::DestroyEntity' cannot be declared with 'explicit' specifier
+  Entity.cpp
+c:\dev\parsecs\parsecs\ecsvector.h(5): error C2955: 'std::enable_if': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(48): note: see declaration of 'std::enable_if'
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+  EntityDatabase.cpp
+c:\dev\parsecs\parsecs\ecsvector.h(5): error C2955: 'std::enable_if': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(48): note: see declaration of 'std::enable_if'
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+  EntityDefinition.cpp
+c:\dev\parsecs\parsecs\ecsvector.h(5): error C2955: 'std::enable_if': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(48): note: see declaration of 'std::enable_if'
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+c:\dev\parsecs\parsecs\entities\entitydefinition.cpp(34): warning C4002: too many arguments for function-like macro invocation 'assert'
+c:\dev\parsecs\parsecs\entities\entitydefinition.cpp(53): warning C4002: too many arguments for function-like macro invocation 'assert'
+c:\dev\parsecs\parsecs\entities\entitydefinition.cpp(66): warning C4002: too many arguments for function-like macro invocation 'assert'
+c:\dev\parsecs\parsecs\entities\entitydefinition.cpp(83): warning C4002: too many arguments for function-like macro invocation 'assert'
+  EntityManager.cpp
+c:\dev\parsecs\parsecs\entities\entitymanager.h(38): error C2178: 'EntityManager::DestroyEntity' cannot be declared with 'explicit' specifier
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+  EntityObserver.cpp
+c:\dev\parsecs\parsecs\entities\entitymanager.h(38): error C2178: 'EntityManager::DestroyEntity' cannot be declared with 'explicit' specifier
+  EntitySystem.cpp
+c:\dev\parsecs\parsecs\entities\entitymanager.h(38): error C2178: 'EntityManager::DestroyEntity' cannot be declared with 'explicit' specifier
+  MemoryAllocator.cpp
+c:\dev\parsecs\parsecs\memoryallocator.cpp(46): warning C4267: 'argument': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\dev\parsecs\parsecs\memoryallocator.cpp(54): warning C4267: '-=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\dev\parsecs\parsecs\memoryallocator.cpp(55): warning C4267: '+=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  ParsECS.cpp
+c:\dev\parsecs\parsecs\ecsvector.h(5): error C2955: 'std::enable_if': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(48): note: see declaration of 'std::enable_if'
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+c:\dev\parsecs\parsecs\parsecs.cpp(25): warning C4356: 'Component<TestCompState>::TypeID': static data member cannot be initialized via derived class
+c:\dev\parsecs\parsecs\parsecs.cpp(39): warning C4356: 'Component<Stuff>::TypeID': static data member cannot be initialized via derived class
+  SimWorld.cpp
+  TestAllocator.cpp
+  TestInitialization.cpp
+c:\dev\parsecs\parsecs\ecsvector.h(5): error C2955: 'std::enable_if': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(48): note: see declaration of 'std::enable_if'
+c:\dev\parsecs\parsecs\ecsvector.h(6): error C2226: syntax error: unexpected type 'std::is_pointer<_Ty>::value'
+  Generating Code...
